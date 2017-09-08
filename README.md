@@ -1,7 +1,10 @@
 # Asynchronous Javascript
 
+A talk about asynchronous stuff.
 
 ### References
+
+#### Tools
 
 - http://latentflip.com/loupe/
 
@@ -18,6 +21,7 @@
 
 #### Articles
 
+- http://2ality.com/2017/05/util-promisify.html
 - https://www.jcore.com/2016/12/18/promise-me-you-wont-use-promise-race/
 - https://medium.com/@benlesh/promise-cancellation-is-dead-long-live-promise-cancellation-c6601f1f5082
 - https://medium.com/javascript-scene/the-hidden-power-of-es6-generators-observable-async-flow-control-cfa4c7f31435
