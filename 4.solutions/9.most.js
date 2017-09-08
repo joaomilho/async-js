@@ -1,5 +1,3 @@
 const most = require('most')
 
-const subscription = most.periodic(2000, 'a').observe(console.log)
-
-subscription.unsubscribe()
+most.periodic(1000, 'hello!').take(5).observe(console.log)
